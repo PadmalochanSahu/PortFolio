@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 10px 100px;
+    align-items: center;
+}
+.links ul{
+    display: flex;
+    padding: 0px;
+}
+.links ul li{
+    list-style: none;
+}
+.Link{
+    text-decoration: none;
+    margin-left: 30px;
+}
+.social-media img{
+    margin-right: 15px;
+}
+.logo img{
+    width: 3vw;
+    padding-top: 8px;
+}

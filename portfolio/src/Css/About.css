@@ -1,0 +1,21 @@
+.about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px 100px;
+}
+.text{
+    font-size: 50px;
+}
+span{
+    background: linear-gradient(90deg, #13B0F5 -2.06%, #E70FAA 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.about p{
+    font-weight: 700;
+    font-size: 50px;
+    letter-spacing: -1px;
+    color: #42446E;
+}
