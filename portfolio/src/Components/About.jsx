@@ -3,7 +3,7 @@ import '../Css/About.css';
 import photo from '../Images/self.png';
 const About = () => {
   return (
-        <div className="about">
+        <div className="about" id="about">
           <div className="text">
             <p>
             Hi 👋,<br />

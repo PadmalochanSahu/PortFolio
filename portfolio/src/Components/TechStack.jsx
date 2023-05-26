@@ -15,7 +15,7 @@ import Vector5 from '../Images/Vector5.png';
 
 const TechStack = () => {
   return (
-    <div className='techStack'>
+    <div className='techStack' id='techStack'>
         <div className="heading">
             <h1>My Tech Stack</h1>
             <p>Technologies I've been working with recently</p>
